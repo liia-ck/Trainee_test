@@ -152,6 +152,19 @@ a, button {
   text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08);
 }
 
+  .showcase .showcase-1 #active-input {
+  color: ;
+  width: 584px;
+  height: 48px;
+  padding: 15px;
+  background: var(--input-color);
+  mix-blend-mode: normal;
+  opacity: 0.24;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+} 
+
 .showcase .showcase-1 .sing-reg {
   display: flex;
   justify-content: center;
