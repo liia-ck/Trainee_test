@@ -1,4 +1,4 @@
-.showcase-1 .box {
+/* .showcase-1 .box {
   position: absolute;
   top: 48px;
   left: 428px;
@@ -21,22 +21,8 @@
   border: none;
   outline: none;
   background: transparent;
-}
-
-/* OR */
-
-/* .showcase .showcase-1 #active-input {
-  color: ;
-  width: 584px;
-  height: 48px;
-  padding: 15px;
-  background: var(--input-color);
-  mix-blend-mode: normal;
-  opacity: 0.24;
-  border-radius: 3px;
-  outline: none;
-  border: none;
 } */
+
 
 
 
